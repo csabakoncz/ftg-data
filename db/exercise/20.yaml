@@ -1,0 +1,27 @@
+title: A családom
+content: |-
+  Anya és Apa a #szüleim#.
+  <br />
+  A húgom és a nővérem a #lánytestvéreim#.
+  <br />
+  Az öcsém és a bátyám a #fiútestvéreim#.
+  <br />
+  A nagypapám és a nagymamám a #nagyszüleim#.
+  <br />
+  A fiam és a lányom a #gyerekeim#.
+  <br />
+  Apa bátyja az én #nagybátyám#.
+  <br />
+  Anya húga az én #nagynéném#.
+  <br />
+  A nagynéném fia és lánya az én #unokatestvéreim#.
+  <br />
+  A bátyjám fia az én #unokaöcsém#.
+  <br />
+  A húgom lánya az én #unokahúgom#.
+previewWidth: '600'
+previewHeight: '400'
+template:
+  _ref: template/1
+style:
+  _ref: style/1

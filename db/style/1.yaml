@@ -1,0 +1,49 @@
+content: |
+  h1{
+          color: brown;
+  }
+  body {
+  line-height: 2;
+  font-size: medium !important;
+  }
+
+  .choicesPanel{
+    border-style: solid;
+          border-color: #286178;
+    padding: 1em;
+          border-width: thin;
+  }
+
+  .puzzleArea{
+    border-style: solid;
+          border-color: #286178;
+    padding: 1em;
+          color: #617828;
+          border-width: thin;
+  }
+  .gapPanel{
+    border-bottom-style: dashed;
+    border-bottom-width: 1px;
+  }
+
+  .correctWord{
+    color: #260450;
+  }
+
+  .choiceWord{
+    margin-right: 1em;
+  }
+
+  .incorrectWord{
+    color:#b45e3c;
+  }
+
+  .guessedWord{
+    position:absolute;
+    left:0px;
+    right:0px;
+    text-align:center;
+  }
+name: puzzle
+objectId: '1'
+className: Style
