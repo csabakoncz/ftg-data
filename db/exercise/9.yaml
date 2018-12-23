@@ -7,7 +7,7 @@ content: |-
   <p></p>
   #EEEE#?
 style:
-  _ref: entity/1
+  _ref: entity/a
 template:
   _ref: template/2
 previewWidth: '600'
