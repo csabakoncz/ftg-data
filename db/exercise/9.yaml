@@ -7,7 +7,7 @@ content: |-
   <p></p>
   #EEEE#?
 style:
-  _ref: style/a
+  _ref: style/1
 template:
   _ref: template/1
 previewWidth: '600'
