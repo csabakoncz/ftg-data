@@ -9,7 +9,7 @@ content: |-
 style:
   _ref: entity/1
 template:
-  _ref: template/2
+  _ref: template/1
 previewWidth: '600'
 previewHeight: '600'
 id: '9'
