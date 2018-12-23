@@ -1,3 +1,4 @@
+entityName: exercise
 title: AA
 content: |-
   árvíztűrés A #B# C #D# 
@@ -5,9 +6,10 @@ content: |-
   BBB
   <p></p>
   #EEEE#?
+style:
+  _ref: entity/1
+template:
+  _ref: template/2
 previewWidth: '600'
 previewHeight: '600'
-template:
-  _ref: template/1
-style:
-  _ref: style/1
+id: '9'
