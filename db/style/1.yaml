@@ -1,4 +1,8 @@
 content: |
+  html{
+    background: #f8f8ff
+  }
+  
   h1{
           color: brown;
   }
