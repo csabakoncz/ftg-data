@@ -1,4 +1,6 @@
 entityName: style
 name: a-title
-content: a-content
+content: |-
+  a-content
+  can it be modified?
 id: a
