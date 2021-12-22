@@ -6,6 +6,8 @@ content: |-
   BBB
   <p></p>
   #EEEE#?
+  <br>
+  F:#FFF#
 style:
   _ref: style/1
 template:
